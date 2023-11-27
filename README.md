@@ -13,4 +13,3 @@
 
     Connect with the local server by MongoDB Compass
 
-2. 
